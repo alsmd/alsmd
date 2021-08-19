@@ -4,7 +4,9 @@
   <img src="./space.gif" width="100%">
 </div>
 
-<p>I really love programming, and now I'm studing this awesome world at 42sp!</p>
+<h1>I really love programming, and now I'm studing this awesome world at 42sp!</h1>
+<hr>
+<h2>Now I'm doing a project called ft_printf, that tries to mimic some printf's functionalities.</h2>
 
 <!--
 **alsmd/alsmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
