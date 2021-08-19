@@ -10,7 +10,7 @@
   <li>These are my badges that I got finishing my 42's projects:</li>
 </ul>
 <img src="lib.png">
-<img src="lib.png">
+<img src="get.png">
 
 <!--
 **alsmd/alsmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
