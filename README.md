@@ -1,9 +1,6 @@
 ### Hi there, is Flavio here.
 <hr>
-<div>
-	<img src="./background.jpg" width="80%">
-
-</div>
+<p>I really love programming, and now I'm studing this awesome world at 42sp!</p>
 
 <!--
 **alsmd/alsmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
