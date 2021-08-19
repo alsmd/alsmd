@@ -2,7 +2,7 @@
 <hr>
 <div>
   <img src="./space.gif" width="40%">
-  <img src="./lib.png" width="20%">
+  <img src="./lib.png" height="50%%">
   <img src="./lib.png" width="20%">
 </div>
 
