@@ -1,11 +1,11 @@
 ### Hi there, is Flavio here.
 <hr>
-<div style="display:flex;">
+<div style="display:flex;justify-content:center;">
   <img src="./background.jpg">
   <div>
     <h1>Cadete na 42!</h1>
   </div>
- </div>
+</div>
 
 <!--
 **alsmd/alsmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
