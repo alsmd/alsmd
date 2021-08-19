@@ -2,7 +2,7 @@
 <hr>
 <div style="display:flex;justify-content:center;">
   <img src="./background.jpg" width="50%">
-  <div>
+  <div width="50%">
     <h1>Cadete na 42!</h1>
   </div>
 </div>
