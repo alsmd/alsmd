@@ -1,9 +1,7 @@
 ### Hi there, is Flavio here.
 <hr>
 <div>
-  <img src="./space.gif" width="40%">
-  <img src="./lib.png" height="50%%">
-  <img src="./lib.png" width="20%">
+  <img src="./space.gif" width="100%">
 </div>
 
 <p>I really love programming, and now I'm studing this awesome world at 42sp!</p>
