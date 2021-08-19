@@ -1,11 +1,6 @@
-<style>
-  .top{
-    display:flex;
-  }
-</style>
 ### Hi there, is Flavio here.
 <hr>
-<div class="top">
+<div style="display:flex;">
   <img src="./background.jpg">
   <div>
     <h1>Cadete na 42!</h1>
