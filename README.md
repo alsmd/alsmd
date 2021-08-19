@@ -1,8 +1,8 @@
 ### Hi there, is Flavio here.
 <hr>
-<img src="./space.gif">
-<img src="./lib.png">
-<img src="./lib.png">
+<img src="./space.gif" width="50%">
+<img src="./lib.png" width="25%">
+<img src="./lib.png" width="25%">
 <p>I really love programming, and now I'm studing this awesome world at 42sp!</p>
 
 <!--
