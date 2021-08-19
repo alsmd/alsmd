@@ -1,9 +1,7 @@
 ### Hi there, is Flavio here.
 <hr>
-<div style="display:flex;justify-content:center;">
-	<img src="./background.jpg" width="40%">
-	<img src="#" alt="" width="10%">
-	<h1>Cadete na 42!</h1>
+<div>
+	<img src="./background.jpg" width="80%">
 
 </div>
 
