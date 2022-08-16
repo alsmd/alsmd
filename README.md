@@ -9,9 +9,19 @@
   <li>Currently I'm working with Java(Spring) and Javascript(Angular)</li>
   <li>These are my badges that I got finishing my 42's projects:</li>
 </ul>
+<a href="https://github.com/alsmd/libft">  
 
 ![alt text](lib.png)
+
+</a>
+
+<a href="https://github.com/alsmd/libft">  
+
 ![alt text](get.png)
+
+</a>
+
+
 ![alt text](ft_printfm.png)
 ![alt text](born2berootm.png)
 ![alt text](so_longm.png)
