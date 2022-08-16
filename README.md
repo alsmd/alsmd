@@ -13,16 +13,15 @@
 ![alt text](lib.png)
 ![alt text](get.png)
 ![alt text](ft_printfm.png)
-
-<img src="born2berootm.png">
-<img src="so_longm.png">
-<img src="pipexm.png">
-<img src="push_swapm.png">
-<img src="minishellm.png">
-<img src="philosophersm.png">
-<img src="netpracticee.png">
-<img src="cub3dm.png">
-<img src="cppe.png">
+![alt text](born2berootm.png)
+![alt text](so_longm.png)
+![alt text](pipexm.png)
+![alt text](push_swapm.png)
+![alt text](minishellm.png)
+![alt text](philosophersm.png)
+![alt text](netpracticee.png)
+![alt text](cub3dm.png)
+![alt text](cppe.png)
 
 <!--
 **alsmd/alsmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
