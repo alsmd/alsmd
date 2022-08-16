@@ -6,7 +6,7 @@
 <hr>
 <ul>
   <li>I really love programming, and now I'm studing this awesome world at 42sp!</li>
-  <li>Now I'm doing a project called ft_printf, that tries to mimic some printf's functionalities.</li>
+  <li>Currently I'm working with Java(Spring) and Javascript(Angular)</li>
   <li>These are my badges that I got finishing my 42's projects:</li>
 </ul>
 <img src="lib.png">
