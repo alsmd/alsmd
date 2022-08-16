@@ -11,20 +11,19 @@
 </ul>
 
 [![alt text](lib.png)](https://github.com/alsmd/libft)
-[![alt text](get.png)](https://github.com/alsmd/libft)
-[![alt text](ft_printfm.png)](https://github.com/alsmd/libft)
-[![alt text](born2berootm.png)](https://github.com/alsmd/libft)
-[![alt text](so_longm.png)](https://github.com/alsmd/libft)
-[![alt text](pipexm.png)](https://github.com/alsmd/libft)
-[![alt text](push_swapm.png)](https://github.com/alsmd/libft)
-[![alt text](minishellm.png)](https://github.com/alsmd/libft)
-[![alt text](philosophersm.png)](https://github.com/alsmd/libft)
-[![alt text](netpracticee.png)](https://github.com/alsmd/libft)
-[![alt text](cub3dm.png)](https://github.com/alsmd/libft)
-[![alt text](cppe.png)](https://github.com/alsmd/libft)
+[![alt text](get.png)](https://github.com/alsmd/get_next_line)
+[![alt text](ft_printfm.png)](https://github.com/alsmd/printf)
+[![alt text](born2berootm.png)](https://github.com/alsmd/Born2beroot)
+[![alt text](so_longm.png)](https://github.com/alsmd/so_long_re)
+[![alt text](pipexm.png)](https://github.com/alsmd/pipex)
+[![alt text](push_swapm.png)](https://github.com/alsmd/push_swap)
+[![alt text](minishellm.png)](https://github.com/alsmd/minishell)
+[![alt text](philosophersm.png)](https://github.com/alsmd/Philosopher)
+[![alt text](netpracticee.png)]()
+[![alt text](cub3dm.png)](https://github.com/gsilva-v/Cub3d)
+[![alt text](cppe.png)]()
 
 
-![alt text](cppe.png)
 <!--
 **alsmd/alsmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
