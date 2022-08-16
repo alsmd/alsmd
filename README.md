@@ -9,30 +9,22 @@
   <li>Currently I'm working with Java(Spring) and Javascript(Angular)</li>
   <li>These are my badges that I got finishing my 42's projects:</li>
 </ul>
-<a href="https://github.com/alsmd/libft">  
 
-![alt text](lib.png)
+[![alt text](lib.png)](https://github.com/alsmd/libft)
+[![alt text](get.png)](https://github.com/alsmd/libft)
+[![alt text](ft_printfm.png)](https://github.com/alsmd/libft)
+[![alt text](born2berootm.png)](https://github.com/alsmd/libft)
+[![alt text](so_longm.png)](https://github.com/alsmd/libft)
+[![alt text](pipexm.png)](https://github.com/alsmd/libft)
+[![alt text](push_swapm.png)](https://github.com/alsmd/libft)
+[![alt text](minishellm.png)](https://github.com/alsmd/libft)
+[![alt text](philosophersm.png)](https://github.com/alsmd/libft)
+[![alt text](netpracticee.png)](https://github.com/alsmd/libft)
+[![alt text](cub3dm.png)](https://github.com/alsmd/libft)
+[![alt text](cppe.png)](https://github.com/alsmd/libft)
 
-</a>
 
-<a href="https://github.com/alsmd/libft">  
-
-![alt text](get.png)
-
-</a>
-
-
-![alt text](ft_printfm.png)
-![alt text](born2berootm.png)
-![alt text](so_longm.png)
-![alt text](pipexm.png)
-![alt text](push_swapm.png)
-![alt text](minishellm.png)
-![alt text](philosophersm.png)
-![alt text](netpracticee.png)
-![alt text](cub3dm.png)
 ![alt text](cppe.png)
-
 <!--
 **alsmd/alsmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
