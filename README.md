@@ -9,18 +9,20 @@
   <li>Currently I'm working with Java(Spring) and Javascript(Angular)</li>
   <li>These are my badges that I got finishing my 42's projects:</li>
 </ul>
-<img width="40%" src="lib.png">
-<img width="40%" src="get.png">
-<img width="40%" src="ft_printfm.png">
-<img width="40%" src="born2berootm.png">
-<img width="40%" src="so_longm.png">
-<img width="40%" src="pipexm.png">
-<img width="40%" src="push_swapm.png">
-<img width="40%" src="minishellm.png">
-<img width="40%" src="philosophersm.png">
-<img width="40%" src="netpracticee.png">
-<img width="40%" src="cub3dm.png">
-<img width="40%" src="cppe.png">
+
+![alt text](lib.png)
+![alt text](get.png)
+![alt text](ft_printfm.png)
+
+<img src="born2berootm.png">
+<img src="so_longm.png">
+<img src="pipexm.png">
+<img src="push_swapm.png">
+<img src="minishellm.png">
+<img src="philosophersm.png">
+<img src="netpracticee.png">
+<img src="cub3dm.png">
+<img src="cppe.png">
 
 <!--
 **alsmd/alsmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
