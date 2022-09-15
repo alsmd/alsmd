@@ -10,6 +10,10 @@
   <li>These are my badges that I got finishing my 42's projects:</li>
 </ul>
 
+
+[![flda-sil's 42 stats](https://badge42.vercel.app/api/v2/cl83cqpae00110hl01eesgei9/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+
+
 [![alt text](lib.png)](https://github.com/alsmd/libft)
 [![alt text](get.png)](https://github.com/alsmd/get_next_line)
 [![alt text](ft_printfm.png)](https://github.com/alsmd/printf)
